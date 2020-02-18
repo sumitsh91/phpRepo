@@ -1,1 +1,1 @@
-This is by git test
+<?php echo 'hello world'; ?>
